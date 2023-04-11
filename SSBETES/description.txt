@@ -1,0 +1,4 @@
+BonusFroms for DBT mod
+I wanted to add new forms to play with friend but I dont know much about C# so I used DBTBalnce`s and K7DBTRF`s codes to make some sort of a Frankenstein. If you want to contact me for some reason (GoldF1#7790)
+
+Sprites Edited/Based on Dragon Ball Terraria's Sprites. Credit to the original team.

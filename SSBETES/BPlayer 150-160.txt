@@ -1,0 +1,20 @@
+        {
+            if(!Form.HasValue || TransformationHandler.TransformKey.JustPressed)
+                Form = Player.GetModPlayer<GPlayer>().FetchTransformation();
+            else if (Form.HasValue && !TransformationHandler.TransformKey.Current)
+                Form = Player.GetModPlayer<GPlayer>().FetchTransformation();
+
+
+            if (!Form.HasValue && TransformationHandler.PowerDownKey.JustPressed)
+                TransformationHandler.ClearTransformations(Player);
+
+            if (!BalanceConfigServer.Instance.LongerTransform)
+            {
+                if (Form.HasValue)
+                    TransformationHandler.Transform(Player, Form.Value);
+            }
+            else
+            {
+                HandleTransformationInput();
+            }
+        }

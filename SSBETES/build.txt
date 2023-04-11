@@ -1,0 +1,6 @@
+displayName = BonusForms for DBT mod
+author = GoldFix1
+version = 1.2
+modReferences = DBZMODPORT, DBZGoatLib
+includeSource = true
+sortAfter = DBZMODPORT, DBZGoatLib, dbzcalamity
