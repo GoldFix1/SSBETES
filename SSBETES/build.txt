@@ -1,6 +1,4 @@
-displayName = BonusForms for DBT mod
+displayName = Super Saiyan Blue Evolution
 author = GoldFix1
-version = 1.2
-modReferences = DBZMODPORT, DBZGoatLib
-includeSource = true
-sortAfter = DBZMODPORT, DBZGoatLib, dbzcalamity
+version = 0.1
+modReferences = DBZGoatLib, DBZMODPORT
