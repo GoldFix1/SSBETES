@@ -1,0 +1,23 @@
+
+Mods: {
+	SSBETES: {
+		Items: {
+			SSBEItem: {
+				DisplayName: BEvolution Test
+				Tooltip: Ok
+			}
+		}
+
+		Buffs: {
+			SSBEBuff: {
+				DisplayName: Super Saiyan Blue Evolution
+				Description:
+					'''
+					Damage +410,00 %  | Speed +260,00 %
+					Defense +51 | Ki Costs +190,00 %
+					Ki Drain 300/s, 120/s when mastered
+					'''
+			}
+		}
+	}
+}
