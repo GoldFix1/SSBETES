@@ -1,0 +1,68 @@
+0.1
+
+Added SSJBE
+
+0.1.1
+
+-dnt remember
+
+0.1.2
+
+Added SSJBKK
+
+0.1.2.1
+
+Fixing SSJBKK bugs
+
+0.1.3
+
+Added FSSJ
+
+0.1.3.1
+
+Fixed FSSJ stack
+Fixed SSJBKK aura
+Added colored eyes
+
+0.1.4
+
+Added Ikari/Wrathful 
+Added Perfected Super Saiyan Blue
+Changed SSJBE Aura
+Prodigy can't use SSJBKK now
+Fixed FSSJ eyes(hair)
+
+0.1.4.1
+
+Changed Blue forms unlock conditions
+
+0.1.5
+
+A bit recolored SSBKK Aura
+Rebalanced blue forms
+Added Crimson Mask
+Added Hair Vanities for 1 web
+
+0.1.5.1
+
+Changed Crimson Mask sprite
+Fixed forms unlocked icon in panel
+
+1.0
+
+---Added Majin Trait
+Added Ancient Trait
+---Added rebalanced stats
+Added Evil Saiyan (Ancient) and Berserker (Other)
+Added FPSSJ (Legendary) and SSJFP (Other)
+Added SSJ Rage and ---Sword of Hope
+Added keybind for transforming ---to addon forms
+---Added Final Explosion
+---Added Dark Dragon Ball accessory
+---Reworked Wrathful
+Players hair now transparent when transformed
+---Changed textures
+Changed forms unlock conditions
+Fixed items names
+Forms can be unlocked without items
+---SSBKK now adds reddish filter on screen

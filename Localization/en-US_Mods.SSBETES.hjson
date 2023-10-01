@@ -1,0 +1,278 @@
+Keybinds: {
+	"Power Up (SSBE Mod).DisplayName": Power  Up ( SSBE  Mod)
+	Ability.DisplayName: Ability
+}
+
+Buffs: {
+	Cooldown: {
+		DisplayName: Cooldown
+		Description: Mods.SSBETES.Buffs.Cooldown.Description
+	}
+
+	AncientBuff: {
+		DisplayName: Ancient Buff
+		Description: Mods.SSBETES.Buffs.AncientBuff.Description
+	}
+
+	MajinBuff: {
+		DisplayName: Majin Buff
+		Description: Mods.SSBETES.Buffs.MajinBuff.Description
+	}
+
+	UnknownAncient: {
+		DisplayName: Unknown Ancient
+		Description: Mods.SSBETES.Buffs.UnknownAncient.Description
+	}
+
+	UnknownMajin: {
+		DisplayName: Unknown Majin
+		Description: Mods.SSBETES.Buffs.UnknownMajin.Description
+	}
+
+	BERSERKERBuff: {
+		DisplayName: Berserk
+		Description: Mods.SSBETES.Buffs.BERSERKERBuff.Description
+	}
+
+	ConBERSERKERBuff: {
+		DisplayName: Controlled Berserk
+		Description: Mods.SSBETES.Buffs.ConBERSERKERBuff.Description
+	}
+
+	EvilSaiyanBuff: {
+		DisplayName: Evil Saiyan
+		Description: Mods.SSBETES.Buffs.EvilSaiyanBuff.Description
+	}
+
+	FPSSJBuff: {
+		DisplayName: Full Power Super Saiyan
+		Description: Mods.SSBETES.Buffs.FPSSJBuff.Description
+	}
+
+	FSSJBuff: {
+		DisplayName: False Super Saiyan
+		Description: Mods.SSBETES.Buffs.FSSJBuff.Description
+	}
+
+	IKARIBuff: {
+		DisplayName: Wrathful
+		Description: Mods.SSBETES.Buffs.IKARIBuff.Description
+	}
+
+	PSSBBuff: {
+		DisplayName: Perfected Super Saiyan Blue
+		Description: Mods.SSBETES.Buffs.PSSBBuff.Description
+	}
+
+	SSBEBuff: {
+		DisplayName: Super Saiyan Blue Evolution
+		Description: Mods.SSBETES.Buffs.SSBEBuff.Description
+	}
+
+	SSBKKBuff: {
+		DisplayName: Super Saiyan Blue Kaio-Ken
+		Description: Mods.SSBETES.Buffs.SSBKKBuff.Description
+	}
+
+	SSJ100Buff: {
+		DisplayName: Super Saiyan 100
+		Description: Mods.SSBETES.Buffs.SSJ100Buff.Description
+	}
+
+	SSJFPBuff: {
+		DisplayName: Super Saiyan Full Power
+		Description: Mods.SSBETES.Buffs.SSJFPBuff.Description
+	}
+
+	SSJRGBuff: {
+		DisplayName: Super Saiyan Rage
+		Description: Mods.SSBETES.Buffs.SSJRGBuff.Description
+	}
+
+	TESTBuff: {
+		DisplayName: TEST Form
+		Description: Mods.SSBETES.Buffs.TESTBuff.Description
+	}
+
+	UBBuff: {
+		DisplayName: Universal Blue
+		Description: Mods.SSBETES.Buffs.UBBuff.Description
+	}
+}
+
+Items: {
+	ASSJHair: {
+		DisplayName: ASSJ Hair
+		Tooltip: ""
+	}
+
+	BOFLHair: {
+		DisplayName: BOFL Hair
+		Tooltip: ""
+	}
+
+	CrimsonMask: {
+		DisplayName: Crimson Mask
+		Tooltip: ""
+	}
+
+	LSSJ2Hair: {
+		DisplayName: LSSJ2 Hair
+		Tooltip: ""
+	}
+
+	LSSJ3Hair: {
+		DisplayName: LSSJ3 Hair
+		Tooltip: ""
+	}
+
+	LSSJHair: {
+		DisplayName: LSSJ Hair
+		Tooltip: ""
+	}
+
+	SSBEHair: {
+		DisplayName: SSBE Hair
+		Tooltip: ""
+	}
+
+	SSBKKHair: {
+		DisplayName: SSBKK Hair
+		Tooltip: ""
+	}
+
+	SSJ1Hair: {
+		DisplayName: SSJ1 Hair
+		Tooltip: ""
+	}
+
+	SSJ1KHair: {
+		DisplayName: SSJ1K Hair
+		Tooltip: ""
+	}
+
+	SSJ2Hair: {
+		DisplayName: SSJ2 Hair
+		Tooltip: ""
+	}
+
+	SSJ3Hair: {
+		DisplayName: SSJ3 Hair
+		Tooltip: ""
+	}
+
+	SSJ3RHair: {
+		DisplayName: SSJ3R Hair
+		Tooltip: ""
+	}
+
+	SSJBHair: {
+		DisplayName: SSJB Hair
+		Tooltip: ""
+	}
+
+	SSJRHair: {
+		DisplayName: SSJR Hair
+		Tooltip: ""
+	}
+
+	USSJHair: {
+		DisplayName: USSJ Hair
+		Tooltip: ""
+	}
+
+	AncientItem: {
+		DisplayName: Ancient Item
+		Tooltip: ""
+	}
+
+	EvilSaiyanItem: {
+		DisplayName: Evil Saiyan Item
+		Tooltip: ""
+	}
+
+	FPSSJItem: {
+		DisplayName: FPSSJ Item
+		Tooltip: ""
+	}
+
+	FSSJItem: {
+		DisplayName: FSSJ Item
+		Tooltip: ""
+	}
+
+	IKARIItem: {
+		DisplayName: IKARI Item
+		Tooltip: ""
+	}
+
+	MajinItem: {
+		DisplayName: Majin Item
+		Tooltip: ""
+	}
+
+	NewFormsItem: {
+		DisplayName: New Forms Item
+		Tooltip: ""
+	}
+
+	PARitem: {
+		DisplayName: PARitem
+		Tooltip: ""
+	}
+
+	PSSBItem: {
+		DisplayName: PSSB Item
+		Tooltip: ""
+	}
+
+	SSBEItem: {
+		DisplayName: SSBE Item
+		Tooltip: ""
+	}
+
+	SSBKKItem: {
+		DisplayName: SSBKK Item
+		Tooltip: ""
+	}
+
+	SSJRGItem: {
+		DisplayName: SSJRG Item
+		Tooltip: ""
+	}
+
+	TESTItem: {
+		DisplayName: TEST Item
+		Tooltip: ""
+	}
+
+	SwordOfHope: {
+		DisplayName: Sword Of Hope
+		Tooltip: ""
+	}
+}
+
+Configs: {
+	Config: {
+		DisplayName: Client Settings
+
+		SepTree: {
+			Label: Bonus forms on sepparate page
+			Tooltip: Self explanatory
+		}
+
+		NotSepTree: {
+			Label: Bonus forms on main page
+			Tooltip: Self explanatory
+		}
+	}
+
+	ConfigServer: {
+		DisplayName: Server Settings
+
+		SSJTweaks: {
+			Label: Rebalanced Stats (Mod Reload Required)
+			Tooltip: Self explanatory
+		}
+	}
+}

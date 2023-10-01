@@ -1,0 +1,6 @@
+displayName = Dragon Ball Terraria: Super Saiyan Blue Evolution
+author = GoldFix1
+version = 0.2
+includeSource = true
+modReferences = DBZGoatLib, DBZMODPORT
+sortAfter = DBZMODPORT, CalamityMod, DBZGoatLib, dbzcalamity, oozaru
