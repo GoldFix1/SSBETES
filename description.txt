@@ -1,0 +1,66 @@
+BonusFroms for DBT mod
+
+DONT ASK QUESTIONS ABOUT THIS ADDON IN THE DBT SERVER THE HAVE NOTHING TO DO WITH THIS MOD!!!
+I YOU HAVE ANY, FEEL FREE TO ASK THEM IN TBS SERVER, LINK BELOW. 
+
+[hr][/hr]
+
+[h2]What does this addon has?[/h2]
+
+-Form that written below-
+-New Ancient Trait-
+-Craftable vanity hair-
+-KeyBind that allows to go to further form (SSB -> PSSB as example)-
+ 
+[h2]How to unlock forms[/h2]
+
+False Super Saiyan:
+1.Half HP while fighting Eater Of Worlds / Brain Of Cthulhu
+2.PROFIT!!!
+
+Super Saiyan Full Power:
+1.Master Super Saiyan
+2.PROFIT!!!
+
+Evil Saiyan Form:
+1.Eat the Fruit of Might that drops from Eye Of Cthulhu
+2.PROFIT!!!
+3. (YOU SHOULD HAVE ANCIENT TRAIT)
+
+Berserker Form:
+1.You have it when Evil Saiyan Form user is near
+
+Wrathful:
+1.Defeat Wall Of Flesh
+2.PROFIT!!!
+3. (YOU SHOULD HAVE LEGENDARY TRAIT)
+
+Super Saiyan Rage:
+1.Defeat Slime Queen
+2.Defeat Cultist
+3.PROFIT!!!
+
+Perfected Super Saiyan Blue:
+1.Master Super Saiyan Blue
+2.PROFIT!!!
+
+Super Saiyan Blue Evolution:
+1.Master Perfected Super Saiyan Blue
+2.PROFIT!!!
+
+Super Saiyan Blue Kaio-Ken:
+1.Master Perfected Super Saiyan Blue
+2.PROFIT!!!
+
+[h2]Forms Multipliers[/h2]
+
+Depends on config and progression, so check yourself 
+
+[hr][/hr]
+[h1][url=https://discord.gg/NqUvkJQWuA]Dragon Ball Terraria Server![/url][/h1]
+
+[h1][url=https://discord.gg/terrariaballsuper]Terraria Ball Super Server! (other addons and new dragon ball mod that is in development)[/url][/h1]
+
+addon code: https://github.com/GoldFix1/SSBETES
+
+Sprites Edited/Based on Dragon Ball Terraria's Sprites. Credit to the original team.

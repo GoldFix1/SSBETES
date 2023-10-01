@@ -1,0 +1,246 @@
+
+Mods: {
+	SSBETES: {
+		Buffs: {
+			Cooldown: {
+				DisplayName: Cooldown
+				Description: Chill
+			}
+
+			AncientBuff: {
+				DisplayName: Evil Saiyan
+				Description: Evil Ki overwhelms you...
+			}
+
+			MajinBuff: {
+				DisplayName: Majin
+				Description: Why are you pink?
+			}
+
+			UnknownAncient: {
+				DisplayName: ???
+				Description: Dark power awakens in you...
+			}
+
+			UnknownMajin: {
+				DisplayName: ???
+				Description: You're not like the others...
+			}
+
+			BERSERKERBuff: {
+				DisplayName: Berserk
+				Description:
+					'''
+					Damage +40.00%  | Speed +30.00%
+					Defense +7
+					'''
+			}
+
+			ConBERSERKERBuff: {
+				DisplayName: Controlled Berserk
+				Description:
+					'''
+					Damage +800.00%  | Speed +800.00%
+					Defense +99Ki Drain -600/s, -6,000/s when mastered
+					'''
+			}
+
+			EvilSaiyanBuff: {
+				DisplayName: Evil Saiyan
+				Description:
+					'''
+					Damage +30.00%  | Speed +5.00%
+					Defense +4Ki Drain 30/s, 0/s when mastered
+					'''
+			}
+
+			FPSSJBuff: {
+				DisplayName: Full Power Super Saiyan
+				Description:
+					'''
+					Damage +35.00%  | Speed -85.00%
+					Defense +9 | Ki Costs +10.00%
+					Ki Drain 90/s, 42/s when mastered
+					'''
+			}
+
+			FSSJBuff: {
+				DisplayName: False Super Saiyan
+				Description:
+					'''
+					Damage +35.00%  | Speed +35.00%
+					Defense +2 | Ki Costs +30.00%
+					Ki Drain 72/s, 42/s when mastered
+					'''
+			}
+
+			IKARIBuff: {
+				DisplayName: Wrathful
+				Description:
+					'''
+					Damage +70.00%  | Speed +105.00%
+					Defense +9 | Ki Costs +70.00%
+					Ki Drain 75/s, 18/s when mastered
+					'''
+			}
+
+			PSSBBuff: {
+				DisplayName: Perfected Super Saiyan Blue
+				Description:
+					'''
+					Damage +390.00%  | Speed +390.00%
+					Defense +44 | Ki Costs +55.00%
+					Ki Drain 84/s, 84/s when mastered
+					'''
+			}
+
+			SSBEBuff: {
+				DisplayName: Super Saiyan Blue Evolution
+				Description:
+					'''
+					Damage +445.00%  | Speed +435.00%
+					Defense +52 | Ki Costs +70.00%
+					Ki Drain 306/s, 162/s when mastered
+					'''
+			}
+
+			SSBKKBuff: {
+				DisplayName: Super Saiyan Blue Kaio-Ken
+				Description:
+					'''
+					Damage +480.00%  | Speed +455.00%
+					Defense +47 | Ki Costs +45.00%
+					Ki Drain 264/s, 132/s when mastered
+					'''
+			}
+
+			SSJ100Buff: {
+				DisplayName: Super Saiyan 100
+				Description:
+					'''
+					Damage +800.00%  | Speed +800.00%
+					Defense +99Ki Drain -600/s, -6,000/s when mastered
+					'''
+			}
+
+			SSJFPBuff: {
+				DisplayName: Super Saiyan Full Power
+				Description:
+					'''
+					Damage +60.00%  | Speed +60.00%
+					Defense +5 | Ki Costs +15.00%
+
+					'''
+			}
+
+			SSJRGBuff: {
+				DisplayName: Super Saiyan Rage
+				Description:
+					'''
+					Damage +230.00%  | Speed +230.00%
+					Defense +14 | Ki Costs +65.00%
+					Ki Drain 150/s, 42/s when mastered
+					'''
+			}
+
+			TESTBuff: {
+				DisplayName: Super TEST
+				Description: Damage +800.00% Defense +99Ki Drain -600/s, -6,000/s when mastered
+			}
+
+			UBBuff: {
+				DisplayName: Universal Blue
+				Description:
+					'''
+					Damage +800.00%  | Speed +800.00%
+					Defense +99Ki Drain -600/s, -6,000/s when mastered
+					'''
+			}
+		}
+
+		Items: {
+			ASSJHair.DisplayName: ASSJ Hair
+			BOFLHair.DisplayName: BOFL Hair
+			CrimsonMask.DisplayName: Crimson Mask
+			LSSJ2Hair.DisplayName: LSSJ2 Hair
+			LSSJ3Hair.DisplayName: LSSJ3 Hair
+			LSSJHair.DisplayName: LSSJ Hair
+			SSBEHair.DisplayName: SSBE Hair
+			SSBKKHair.DisplayName: SSBKK Hair
+			SSJ1Hair.DisplayName: SSJ1 Hair
+			SSJ1KHair.DisplayName: SSJ1 K Hair
+			SSJ2Hair.DisplayName: SSJ2 Hair
+			SSJ3Hair.DisplayName: SSJ3 Hair
+			SSJ3RHair.DisplayName: SSJ3 R Hair
+			SSJBHair.DisplayName: SSJB Hair
+			SSJRHair.DisplayName: SSJR Hair
+			USSJHair.DisplayName: USSJ Hair
+
+			AncientItem: {
+				DisplayName: Ancient Test Item
+				Tooltip: Gives the ancient trait
+			}
+
+			EvilSaiyanItem: {
+				DisplayName: Fruit of Might
+				Tooltip: Unlock Evil Form if you have ancient trait
+			}
+
+			FPSSJItem: {
+				DisplayName: Full Power SSJ Unlock
+				Tooltip: ---
+			}
+
+			FSSJItem: {
+				DisplayName: False Super Saiyan UNLOCK
+				Tooltip: Unleashes new power
+			}
+
+			IKARIItem.DisplayName: Ikari UNLOCK
+
+			MajinItem: {
+				DisplayName: Majin Test Item
+				Tooltip: Gives the majin trait
+			}
+
+			NewFormsItem: {
+				DisplayName: New Forms Unlock
+				Tooltip: ---
+			}
+
+			PSSBItem.DisplayName: Perfected Super Saiyan Blue UNLOCK
+
+			SSBEItem: {
+				DisplayName: Super Saiyan Blue Evolution UNLOCK
+				Tooltip: Unleashes new power
+			}
+
+			SSBKKItem.DisplayName: Super Saiyan Blue Kaio-Ken UNLOCK
+
+			SSJRGItem: {
+				DisplayName: SSJ Rage Unlock
+				Tooltip: ---
+			}
+
+			TESTItem: {
+				DisplayName: TEST FORM
+				Tooltip: Unleashes new power
+			}
+
+			SwordOfHope: {
+				DisplayName: Sword Of Hope
+				Tooltip: Probably contains a huge power
+			}
+
+			PARCTEST: {
+				DisplayName: False Super Saiyan UNLOCK
+				Tooltip: Unleashes new power
+			}
+
+			PARitem: {
+				DisplayName: particle test
+				Tooltip: Unleashes new power
+			}
+		}
+	}
+}
