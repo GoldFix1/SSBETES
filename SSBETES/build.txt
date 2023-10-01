@@ -1,4 +1,0 @@
-displayName = Super Saiyan Blue Evolution
-author = GoldFix1
-version = 0.1.3
-modReferences = DBZGoatLib, DBZMODPORT
